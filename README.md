@@ -87,7 +87,7 @@ This project is licensed under the GPL 3.0 - see the LICENSE file for details.
 
 ## Contributors
 
-- [Your Name](https://github.com/SahilBane2002)
+- [Sahil Subodh Bane](https://github.com/SahilBane2002)
 
 ---
 
